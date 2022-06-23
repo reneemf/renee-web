@@ -6,7 +6,7 @@ title: Renée Fonseca
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidite in Human Genetics
+role: PhD Candidate in Human Genetics
 
 # Organizations/Affiliations to show in About widget
 organizations:
