@@ -18,13 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Academic website for Renée Fonseca'
+    twitter: 'reneefonseca'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'reneefonseca'
     baidu: ''
 
 # Site header
@@ -65,8 +65,11 @@ features:
     extra_languages:
       - r
       - latex
+      - python
+    theme_light: xcode-light
+    theme_dark: xcode-dark
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
