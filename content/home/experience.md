@@ -50,48 +50,48 @@ experience:
     company_url: 'https://www.genscape-lab.com/'
     company_logo: org-x
     location: Chicago, IL
-    date_start: 'July 01, 2021'
-    date_end: 'Oct 01, 2021'
+    date_start: '2021-07-01'
+    date_end: '2021-10-01'
     description: Investigated and visualize disease burden in a Kodava population.
   - title: Research Fellow
     company: Moreno Lab
     company_url: 'https://www.univalle.edu.co/'
     company_logo: org-x
     location: Cali, Colombia
-    date_start: 'March 2019'
-    date_end: 'May 2020'
+    date_start: '2019-03-01'
+    date_end: '2020-05-01'
     description: Investigated disease burden in an under-represented Afro-Colombian population along the Pacific Coast.
   - title: Research Assistant
     company: Jiang Lab
     company_url: 'http://www.raysjianglab.org/index.html'
     company_logo: org-x
     location: Tampa, FL
-    date_start: 'Jan 2019'
-    date_end: 'Oct 2019'
+    date_start: '2019-01-01'
+    date_end: '2019-10-01'
     description: Coordinated IRONHACK, a USF/NCBI/NIH Biohackathon focused on improving rare, iron-related disease diagnosis.
   - title: Research Assistant
     company: Uversky Lab
     company_url: 'https://health.usf.edu/medicine/byrd/research/directory/vuversky'
     company_logo: org-x
     location: Tampa, FL
-    date_start: 'Jan 2018'
-    date_end: 'March 2019'
+    date_start: '2018-01-01'
+    date_end: '2019-03-01'
     description:  Analyzed intrinsic disorder and binding sites within Thyroid Stimulating Hormone Receptors.
   - title: Research Assistant
     company: Jadad Lab
     company_url: 'https://www.utoronto.ca/'
     company_logo: org-x
     location: Toronto, Canada
-    date_start: 'June 2018'
-    date_end: 'Oct 2018'
+    date_start: '2018-06-01'
+    date_end: '2018-10-01'
     description:  Cleaned and visualized large-scale public health databases including the Canadian Community Health Survey to study determinants of health.
   - title: Laboratory Assistant
     company: Pinilla Lab
     company_url: 'https://moffitt.org/providers/javier-pinilla/'
     company_logo: org-x
     location: Tampa, FL
-    date_start: 'June 2015'
-    date_end: 'Dec 2016'
+    date_start: '2015-06-01'
+    date_end: '2016-12-01'
     description:  Studied the effects of PI3K delta inhibition on normal T cell function, and selective inhibition of HDAC6 and B cell receptors in CLL.
 
 design:
