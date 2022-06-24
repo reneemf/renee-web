@@ -27,7 +27,8 @@ experience:
     company_url: 'https://sites.google.com/view/andywdahl/home'
     company_logo: org-gc
     location: Chicago, IL
-    date_start: 'June 01, 2021'
+    date_start: '2021-06-01'
+    date_end: ''
     description: |2-
         Develop novel methods to improve polygenic score portability.
         Responsibilities include:
@@ -41,8 +42,8 @@ experience:
     company_url: 'http://jnpopgen.org/'
     company_logo: org-x
     location: Chicago, IL
-    date_start: 'March 01, 2021'
-    date_end: 'June 01, 2021'
+    date_start: '2021-03-01'
+    date_end: '2021-06-01'
     description: Investigate if and how marginal epistasis contributes to population-differentiated genetic effects.
   - title: Rotation Student
     company: Raghavan Lab
