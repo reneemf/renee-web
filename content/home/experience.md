@@ -25,7 +25,7 @@ experience:
   - title: PhD Candidate
     company: Dahl Lab
     company_url: 'https://sites.google.com/view/andywdahl/home'
-    company_logo: org-gc
+    company_logo: UChicago
     location: Chicago, IL
     date_start: '2021-06-01'
     date_end: ''
@@ -40,7 +40,7 @@ experience:
   - title: Rotation Student
     company: Novembre Lab
     company_url: 'http://jnpopgen.org/'
-    company_logo: org-x
+    company_logo: UChicago
     location: Chicago, IL
     date_start: '2021-03-01'
     date_end: '2021-06-01'
@@ -48,7 +48,7 @@ experience:
   - title: Rotation Student
     company: Raghavan Lab
     company_url: 'https://www.genscape-lab.com/'
-    company_logo: org-x
+    company_logo: UChicago
     location: Chicago, IL
     date_start: '2021-07-01'
     date_end: '2021-10-01'
@@ -56,7 +56,7 @@ experience:
   - title: Research Fellow
     company: Moreno Lab
     company_url: 'https://www.univalle.edu.co/'
-    company_logo: org-x
+    company_logo: Univalle
     location: Cali, Colombia
     date_start: '2019-03-01'
     date_end: '2020-05-01'
@@ -64,7 +64,7 @@ experience:
   - title: Research Assistant
     company: Jiang Lab
     company_url: 'http://www.raysjianglab.org/index.html'
-    company_logo: org-x
+    company_logo: USF
     location: Tampa, FL
     date_start: '2019-01-01'
     date_end: '2019-10-01'
@@ -72,7 +72,7 @@ experience:
   - title: Research Assistant
     company: Uversky Lab
     company_url: 'https://health.usf.edu/medicine/byrd/research/directory/vuversky'
-    company_logo: org-x
+    company_logo: USF
     location: Tampa, FL
     date_start: '2018-01-01'
     date_end: '2019-03-01'
@@ -80,7 +80,7 @@ experience:
   - title: Research Assistant
     company: Jadad Lab
     company_url: 'https://www.utoronto.ca/'
-    company_logo: org-x
+    company_logo: Utoronto
     location: Toronto, Canada
     date_start: '2018-06-01'
     date_end: '2018-10-01'
@@ -88,7 +88,7 @@ experience:
   - title: Laboratory Assistant
     company: Pinilla Lab
     company_url: 'https://moffitt.org/providers/javier-pinilla/'
-    company_logo: org-x
+    company_logo: Moffit
     location: Tampa, FL
     date_start: '2015-06-01'
     date_end: '2016-12-01'
